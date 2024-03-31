@@ -28,6 +28,8 @@ The sections explored will include Anchors, Quantifiers, OR Operator, Character 
 
 ### Anchors
 
+`^` and `$` meta characters are considered anchors in Hex Value Regex. `^` notates the beginning of the string being analyzed and `$` notates the end of the string. All of the code snippet that lies between the anchors `^` and `$` is what Regex will be searching for. No additional characters that lie outside of the anchors will be considered part of the Hex Value Regex pattern.
+
 ### Quantifiers
 
 ### OR Operator
