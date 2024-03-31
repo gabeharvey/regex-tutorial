@@ -25,6 +25,8 @@ Anchor Information Accessed: https://launchschool.com/books/regex/read/anchors
 
 Quantifier Information Accessed: https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions
 
+OR Operator Information Accessed: https://support.workiva.com/hc/en-us/articles/4407304269204-Regular-expression-operators
+
 ## Screenshots
 
 ## Video

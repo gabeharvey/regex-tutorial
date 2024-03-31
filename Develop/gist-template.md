@@ -46,6 +46,10 @@ Here are two quantifiers that must be taken into consideration in the pattern:
 
 ### OR Operator
 
+`|` is an example of the OR operator in our Hex Value Regex. This signifies that our expression must include either `{6}` 6 hexadecimal characters OR `{3}` 3 hexadecimal characters in the following character classes which will be explained below.
+
+`abcdef` OR `abc` would both satisfy our regex criteria.
+
 ### Character Classes
 
 ### Flags
