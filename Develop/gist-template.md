@@ -62,7 +62,15 @@ Here are some examples that would be INCORRECT or INVALID:
 
 ### Flags
 
+There are no flags present in our code snippet.
+
 ### Grouping and Capturing
+
+The "capturing group" in our Hex Value Regex is notated by our parenthesis `()`. Our expression is looking for `[a-f0-9]{6}` OR `[a-f0-9]{3}`. Each of these examples would be considered alternative patterns.
+
+The code snippet contains two patterns enclosed by parenthesis. These patterns are separated and distinguished by using a separating OR operator `|` within our parenthesis. The "capturing group" includes all patterns within our parenthesis. In this example, the criteria must match either the six-digit hexadecimal criteria OR the three-digit hexadecimal criteria.
+
+The "grouping" in our Hex Value Regex groups our alternative patterns together as one unit. This allows us to apply our anchors to the entire unit as a whole. This will enable capturing of our entire Hexadecimal Code as long as it meets all `[a-f0-9]` character classes and is between `{6}` 6 or `{3}` 3 characters.
 
 ### Bracket Expressions
 
