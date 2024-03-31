@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Hexadecimal Value Regular Expression
 
-Introductory paragraph (replace this with your text)
+This Regular Expression (Regex) Tutorial will focus on the use of Hexadecimal Values (Hex Values). Each section will explain in detail a specific aspect of Hex Value Regex and how it functions within the expression. Please refer to the Table of Contents to search for a particular segment.
 
 ## Summary
 
