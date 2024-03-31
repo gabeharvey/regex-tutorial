@@ -33,6 +33,8 @@ Grouping and Capturing Information Accessed: https://javascript.info/regexp-grou
 
 Bracket Expressions Information Accessed: https://www.gnu.org/software/grep/manual/html_node/Character-Classes-and-Bracket-Expressions.html
 
+Greedy and Lazy Match Information Accessed: https://javascript.info/regexp-greedy-and-lazy
+
 ## Screenshots
 
 ## Video

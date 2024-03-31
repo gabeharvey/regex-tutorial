@@ -78,6 +78,8 @@ The Bracket Expressions in our code snippet are characters located within `[` an
 
 ### Greedy and Lazy Match
 
+`?` makes the match optional or "lazy" in our code snippet. For further clarification `#?` means that the match may or may not include `#` in order to be valid. The `#` character may or may not be included. Unless part of the code snippet is lazy, the default match is considered greedy. In our example `[a-f0-9]{6}`, the characters of "a-f" or "0-9" are considered greedy and are required in order for the match to be valid.
+
 ### Boundaries
 
 ### Back-references
