@@ -27,6 +27,8 @@ Quantifier Information Accessed: https://learn.microsoft.com/en-us/dotnet/standa
 
 OR Operator Information Accessed: https://support.workiva.com/hc/en-us/articles/4407304269204-Regular-expression-operators
 
+Character Classes Information Accessed: https://docs.oracle.com/javase/tutorial/essential/regex/char_classes.html#:~:text=In%20the%20context%20of%20regular,from%20a%20given%20input%20string
+
 ## Screenshots
 
 ## Video
