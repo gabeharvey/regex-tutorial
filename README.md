@@ -23,6 +23,8 @@
 
 Anchor Information Accessed: https://launchschool.com/books/regex/read/anchors
 
+Quantifier Information Accessed: https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions
+
 ## Screenshots
 
 ## Video
