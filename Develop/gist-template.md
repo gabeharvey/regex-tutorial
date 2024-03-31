@@ -74,6 +74,8 @@ The "grouping" in our Hex Value Regex groups our alternative patterns together a
 
 ### Bracket Expressions
 
+The Bracket Expressions in our code snippet are characters located within `[` and `]`. This code snippet includes two "range expressions" within our "bracket expressions". In the following code snippet example `[a-f0-9]`, characters `a-f` and `0-9` are part of the criteria and are each range epxressions. `[a-f0-9]` in its entirety is considered a bracket expression. If a character falls outside of these range expressions (for example `z` of `z12345`) in our bracket expression, it will make the code snippet invalid.
+
 ### Greedy and Lazy Match
 
 ### Boundaries

@@ -31,6 +31,8 @@ Character Classes Information Accessed: https://docs.oracle.com/javase/tutorial/
 
 Grouping and Capturing Information Accessed: https://javascript.info/regexp-groups
 
+Bracket Expressions Information Accessed: https://www.gnu.org/software/grep/manual/html_node/Character-Classes-and-Bracket-Expressions.html
+
 ## Screenshots
 
 ## Video
