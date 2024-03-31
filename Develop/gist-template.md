@@ -82,6 +82,8 @@ The Bracket Expressions in our code snippet are characters located within `[` an
 
 ### Boundaries
 
+`^` and `$` are examples of boundaries in the code snippet. They signify the beginning and ending boundaries of the string. `^` marks the beginning of the regex and signifies that the string match must begin at the beginning of a line. `$` marks the ending of the regex and signifies that the string match ends at the end of a line. Additional characters outside the boundaries are not considered part of the string.
+
 ### Back-references
 
 ### Look-ahead and Look-behind

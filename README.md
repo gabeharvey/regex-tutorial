@@ -35,6 +35,8 @@ Bracket Expressions Information Accessed: https://www.gnu.org/software/grep/manu
 
 Greedy and Lazy Match Information Accessed: https://javascript.info/regexp-greedy-and-lazy
 
+Boundaries Information Accessed: https://www.sonarsource.com/blog/setting-the-right-regex-boundaries-is-important/
+
 ## Screenshots
 
 ## Video
