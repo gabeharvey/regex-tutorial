@@ -86,6 +86,8 @@ The Bracket Expressions in our code snippet are characters located within `[` an
 
 ### Back-references
 
+There are no back references present in our code snippet.
+
 ### Look-ahead and Look-behind
 
 ## Author
