@@ -94,4 +94,8 @@ There are no look-ahead or look-behind references present in our code snippet.
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+The author of this tutorial is Martin "Gabe" Harvey. Gabe is a full-stack web developer that specializes in HTML, CSS, JavaScript, SQL, Node.js, Insomnia, NoSQL, MongoDB, and many other web development applications and languages. By the creation of this tutorial, Gabe was introduced to Regular Expressions with a focus on Hexadecimal Values.
+
+Gabe's work and proficencies in web development may be accessed at the following link: https://github.com/gabeharvey
+
+Thank you for looking and all considerations!
