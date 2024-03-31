@@ -4,7 +4,11 @@ This Regular Expression (Regex) Tutorial will focus on the use of Hexadecimal Va
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The following code snippet will be analyzed and explained in detail in this tutorial:
+
+/^#?([a-f0-9]{6}|[a-f0-9]{3})$/
+
+The sections explored will include Anchors, Quantifiers, OR Operator, Character Classes, Flags, Grouping and Capturing, Bracket Expressions, Greedy and Lazy Match, Boundaries, Back-references, and Look-ahead and Look-behind.
 
 ## Table of Contents
 
